@@ -18,4 +18,4 @@ accountEmail = 'abc@gmail.com';
 accountPass = '123456789';
 accountCity = "VDR";
 
-console.table([accountId, accountEmail, accountPass, accountCity]);
+console.table([accountId, accountEmail, accountPass, accountCity,accountState]);
